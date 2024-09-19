@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Fly-Fly House</string>
+    <string name="search_hint">Найти мероприятие, место или организатора</string>
+    <string name="upcoming_event_title">Ближайшее Мероприятие</string>
+    <string name="news_title">Новости</string>
+    <string name="other_button">К другим</string>
+    <string name="news_types_button">Типы новостей</string>
+    <string name="min">мин</string>
+</resources>
