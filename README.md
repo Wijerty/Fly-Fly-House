@@ -2,13 +2,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/{nickname}/{project_name}">
-    <img src="https://ucarecdn.com/589650db-0530-4b43-ac2f-2c9437c49b60/" alt="Logo">
+    <img src="https://ucarecdn.com/71c49046-21c7-4b62-b882-aad1fe8e131e/" alt="Logo">
   </a>
 
-  <h3 align="center">Space traveler</h3>
+  <h3 align="center">Fly-Fly House</h3>
 
   <p align="center">
-    An awesome mobile application for the company "StarGalaxy".
+    An awesome mobile application for the company "Fly-Fly".
     <br />
     <br />
     <a href="https://github.com/{nickname}/{project_name">View Demo</a>
@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](https://ucarecdn.com/589650db-0530-4b43-ac2f-2c9437c49b60/)
+![Product Name Screen Shot](https://ucarecdn.com/71c49046-21c7-4b62-b882-aad1fe8e131e/)
 
 A simple mobile application that solved many of the company's problems. 
 
@@ -65,7 +65,7 @@ Modern mobile applications use modern libraries, and therefore we use the best l
 # Demo
 
 ## Screens
-<img src="https://ucarecdn.com/3c00330c-8733-4114-a1c5-e16050196d04/" width="49%"> <img src="https://ucarecdn.com/ce7c2684-87db-4b24-8330-7f8ec07df265/" width="49%">
+<img src="https://ucarecdn.com/f2f12247-4616-42ca-a028-1709e23fb678/" width="49%"> <img src="https://ucarecdn.com/a4dd00c5-26bb-4734-a52a-4fcfae92abc5/" width="49%">
 
 </br>
 
